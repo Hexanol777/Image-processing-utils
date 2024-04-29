@@ -1,2 +1,2 @@
-# Image-processing-utils
-utilities for image processing
+# Image Processing Utilities
+utilities i use for image processing.
